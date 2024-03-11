@@ -1,0 +1,12 @@
+GET 127.0.0.1:8000/product                  -- show
+GET 127.0.0.1:8000/product/search/{name}    --search
+GET 127.0.0.1:8000/product/{id}             -- show for ID
+POST 127.0.0.1:8000/product/add             -- add product      
+PUT 127.0.0.1:8000/product/{id}/update      -- update 
+PUT 127.0.0.1:8000/product/{id}/delete      -- delete
+
+GET 127.0.0.1:8000/catagory                  -- show
+GET 127.0.0.1:8000/catagory/{id}             -- show for ID
+POST 127.0.0.1:8000/catagory/add             -- add catagory      
+PUT 127.0.0.1:8000/catagory/{id}/update      -- update 
+PUT 127.0.0.1:8000/catagory/{id}/delete      -- delete

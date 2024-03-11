@@ -1,0 +1,15 @@
+ตัวไหนไม่ได้ส่งว่าจะให้ส่งnullมา
+{
+    "name": {
+        "product_id1": 1,
+        "product_id2": 3,
+        "product_id3":4,
+        "product_id4": "",
+        "product_id5": "",
+        "product_id6": "",
+        "product_id7": "",
+        "product_id8": "",
+        "product_id9": "",
+        "product_id10": 70
+    }
+}
